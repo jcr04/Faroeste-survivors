@@ -28,15 +28,15 @@ public class Spaw_Area : MonoBehaviour
 
     private void SpawnEnemy()
     {
-        // Obter a posição do jogador
+     
         Vector2 playerPos = playerTransform.position;
 
-        // Adicionar um deslocamento aleatório
+      
         float xOffset = Random.Range(-spawnRadius, spawnRadius);
         float yOffset = Random.Range(-spawnRadius, spawnRadius);
         Vector2 spawnPos = playerPos + new Vector2(xOffset, yOffset);
 
-        // Instanciar o inimigo na posição gerada
+     
         Instantiate(enemyPrefab, spawnPos, Quaternion.identity);
     }
 
