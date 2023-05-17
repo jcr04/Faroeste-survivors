@@ -1,10 +1,3 @@
-# Faroeste-survivors
-Este repositório apresenta um prótotipo de um jogo Rogue Like Bullet Hell com inspiração do aclamado jogo Vampire Survivors.
-
-# ilustração
-
-## Menu
-![image](https://github.com/jcr04/Faroeste-survivors/assets/70778525/a13ca898-3317-4799-9f89-42c7501d7971)
-
-## Gameplay
-![image](https://github.com/jcr04/Faroeste-survivors/assets/70778525/926b25d6-8ba8-4c67-b0a2-b9a662f47247)
+version https://git-lfs.github.com/spec/v1
+oid sha256:8949d67d9fab075f264b9fcd047829f6706b25f44eeacfe772c7cae8e22de7a9
+size 412
