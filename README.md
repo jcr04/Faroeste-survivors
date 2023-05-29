@@ -1,5 +1,5 @@
 # Faroeste-survivors
-Este repositório apresenta um prótotipo de um jogo Rogue Like Bullet Hell com inspiração do aclamado jogo Vampire Survivors.
+Este repositório apresenta um prótotipo de um jogo Bullet Hell com inspiração do aclamado jogo Vampire Survivors.
 
 # ilustração
 
